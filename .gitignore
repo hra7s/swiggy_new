@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+/node_modules
+.parcel-cache
+dist 
+=======
+
+/node_modules
+/dist 
+/parcel-cache
+>>>>>>> a143bba696526e7356328c2f83e5556f88cebac4
